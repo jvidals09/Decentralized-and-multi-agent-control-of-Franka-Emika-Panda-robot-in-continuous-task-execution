@@ -1,7 +1,14 @@
 # Decentralized-and-multi-agent-control-of-Franka-Emika-Panda-robot-in-continuous-task-execution
 This Repository contains the Python and Mujoco interactive code and simulation for Ubuntu Linux on Decentralized and multi agent control of Franka Emika Panda robot in continuous task execution
 
-Intelligent Task Learning code contains a http://www.mujoco.org/ MUJOCO multiphysics operated simulated environment , where Soft Actor Critic https://arxiv.org/abs/1812.05905 and Proximal Policy Optimization (PPO) algorithms https://arxiv.org/abs/1707.06347 can be used as neural network reinforcement learning methods to perform grasping and lifting cube tasks. Monitoring of the data obtained is done with the use of Weights and Biases software https://wandb.ai/site.
+![image](https://user-images.githubusercontent.com/70486326/132092166-baaa407f-8e2b-4a82-9104-4b55e2fbcdde.png)
+
+
+Intelligent Task Learning code contains a http://www.mujoco.org/ MUJOCO multiphysics operated simulated environment , where Soft Actor Critic https://arxiv.org/abs/1812.05905 and Proximal Policy Optimization (PPO) algorithms https://arxiv.org/abs/1707.06347 can be used as neural network reinforcement learning methods to perform grasping and lifting cube tasks. Monitoring of the data obtained is done with the use of Weights and Biases software https://wandb.ai/site. The novelty on this code consists on the fact that instead of a centralized controller approach, a development on a decentralized and multi agent control framework has been developed to support behavioural skills being treained sepparately and action spaces be managed individually.
+
+![image](https://user-images.githubusercontent.com/70486326/132092153-5572e8aa-9168-498e-9064-3126766b74a6.png)
+![image](https://user-images.githubusercontent.com/70486326/132092157-ec4b51fb-1ae0-45af-bb6a-8ac7f50072d9.png)
+
 
 Installation
 To use this toolkit, it is required to first install MuJoCo 200 https://www.roboti.us/index.html and then mujoco-py  https://github.com/openai/mujoco-py from Open AI. mujoco-py allows using MuJoCo from python interface. The installation requires python 3.6 or higher. It is recommended to install all the required packages under a conda virtual environment
