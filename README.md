@@ -5,9 +5,9 @@ This Repository contains the Python and Mujoco interactive code and simulation f
 
 
 Intelligent Task Learning code contains a http://www.mujoco.org/ MUJOCO multiphysics operated simulated environment , where Soft Actor Critic https://arxiv.org/abs/1812.05905 and Proximal Policy Optimization (PPO) algorithms https://arxiv.org/abs/1707.06347 can be used as neural network reinforcement learning methods to perform grasping and lifting cube tasks. Monitoring of the data obtained is done with the use of Weights and Biases software https://wandb.ai/site. The novelty on this code consists on the fact that instead of a centralized controller approach, a development on a decentralized and multi agent control framework has been developed to support behavioural skills being treained sepparately and action spaces be managed individually.
+![multiagent](https://user-images.githubusercontent.com/70486326/135259284-44c685c9-f919-4fdf-9043-67789ad6126e.PNG)
 
-![image](https://user-images.githubusercontent.com/70486326/132092153-5572e8aa-9168-498e-9064-3126766b74a6.png)
-![image](https://user-images.githubusercontent.com/70486326/132092157-ec4b51fb-1ae0-45af-bb6a-8ac7f50072d9.png)
+![VIDAL PECIOSKI dasdasdasd](https://user-images.githubusercontent.com/70486326/135259163-21c738de-ec4d-42ef-9b4e-3f9b4ad98af0.jpg)
 
 
 Installation
