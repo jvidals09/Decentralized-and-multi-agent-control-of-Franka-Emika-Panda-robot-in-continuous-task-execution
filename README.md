@@ -8,7 +8,7 @@ Intelligent Task Learning code contains a http://www.mujoco.org/ MUJOCO multiphy
 
 ![multiagent](https://user-images.githubusercontent.com/70486326/135259284-44c685c9-f919-4fdf-9043-67789ad6126e.PNG)
 
-![VIDAL PECIOSKI dasdasdasd](https://user-images.githubusercontent.com/70486326/135259163-21c738de-ec4d-42ef-9b4e-3f9b4ad98af0.jpg)
+![VIDAL PECIOSKI dasdasdasd (1)](https://user-images.githubusercontent.com/70486326/135513348-b9304d3f-348a-479e-b885-5b426a616a56.jpg)
 
 
 Installation
